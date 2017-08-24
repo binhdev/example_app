@@ -1,0 +1,17 @@
+vi:
+  hello: "Hello world"
+  login: "Dang nhap"
+  news: "Tin moi"
+  signup: "Dang nhap"
+  signup_now: "Dang nhap ngay"
+  base_title: "Huong dan Ruby on Rails Sample App"
+  welcome: "Welcome to the Sample App"
+  static_pages:
+    home:
+      title: "Trang chu"
+    about:
+      title: "Thong tin"
+    help:
+      title: "Giup do"
+    contact:
+      title: "Lien he"
