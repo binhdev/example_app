@@ -31,16 +31,16 @@
 
 en:
   hello: "Hello world"
-  login: "Log in"
-  news: "News"
-  signup: "Sign up"
-  signup_now: "Sign up now"
+  login: "Dang nhap"
+  news: "Tin moi"
+  signup: "Dang nhap"
+  signup_now: "Dang nhap ngay"
   static_pages:
     home:
-      title: "Home"
+      title: "Trang chu"
     about:
-      title: "About"
+      title: "Thong tin"
     help:
-      title: "Help"
+      title: "Giup do"
     contact:
-      title: "Contact"
+      title: "Lien he"
