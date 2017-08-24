@@ -31,3 +31,12 @@
 
 en:
   hello: "Hello world"
+  static_pages:
+    home:
+      title: "Home"
+    about:
+      title: "About"
+    help:
+      title: "Help"
+    contact:
+      title: "Contact"
