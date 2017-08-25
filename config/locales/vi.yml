@@ -15,3 +15,6 @@ vi:
       title: "Giup do"
     contact:
       title: "Lien he"
+  users:
+    create_my_account: "Tao tai khoan"
+    confirm: "Xac nhan"
