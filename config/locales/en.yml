@@ -6,6 +6,7 @@ en:
   signup_now: "Sign up now"
   base_title: "Ruby on Rails Tutorial Sample App"
   welcome: "Welcome to the Sample App"
+  invalid_email_or_password: "Invalid email/password combination"
   static_pages:
     home:
       title: "Home"
